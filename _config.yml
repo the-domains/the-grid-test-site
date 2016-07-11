@@ -1,0 +1,14 @@
+layout_spectrum: 0.0943906765896827
+typography_spectrum: 0.6468625231646001
+color:
+  brandStrength: 0.7420208035036922
+  lightness: 0.7922989814542234
+  saturation: 0.3256004734430462
+  rhythmicContrast: 0.6424735749606043
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: The Grid Test Site
